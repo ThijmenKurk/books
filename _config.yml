@@ -1,1 +1,5 @@
 theme: jekyll-theme-slate
+title: Book club D0321
+show_downloads: false
+github:
+  is_project_page: false
