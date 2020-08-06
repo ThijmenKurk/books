@@ -9,3 +9,4 @@ layout: default
 > Participants
 > * Alex
 > * Thijmen
+> * Nigel
